@@ -20,7 +20,8 @@ databases tools. Nextflow
 - #### Frameworks : 
 * Deep Learning libraries Tensorflow, PyTorch, FASTAPI
 - #### Developer Tools:
-* GCP [ Data engineering], Excel, Git, VS Code, Docker
+* GCP [ Data engineering - BQ, K8s, Cloud Run, Artifact Registry, GCS, compute engine, cloudSQL], Excel, Git, VS Code, Docker
 - #### Libraries: 
-NumPy, Matplotlib, Sklearn, Networkx, Seaborn,Urllib, Pycaret , Rdkit, Pubchempy, chembl_webclient,
-ODDT, PyTest, Flask, FastAPI
+* NumPy, Matplotlib, Sklearn, Networkx, Seaborn,Urllib, Pycaret , Rdkit, Pubchempy, chembl_webclient, ODDT, PyTest, Flask, FastAPI
+- #### Database
+* PostgresSQL 
