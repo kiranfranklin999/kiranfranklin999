@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Nextflow
 - 🌱 I’m currently learning ... Nextflow and NLP - Deep Learning
-- 👯 I’m looking to collaborate on ... Cheminformatics and Omics 
+- 👯 I’m looking to collaborate on ... Bio/Cheminformatics and Omics, Drug Desgin and discovery
 - 📫 How to reach me: ...[linkedin](https://www.linkedin.com/in/kiran-franklin-g-367115173) kiranfranklinkiran@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Skills & Abilities : ...
