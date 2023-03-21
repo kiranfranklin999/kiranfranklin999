@@ -23,4 +23,4 @@ databases tools. Nextflow
 * GCP [ Data engineering], Excel, Git, VS Code, Docker
 - #### Libraries: 
 NumPy, Matplotlib, Sklearn, Networkx, Seaborn,Urllib, Pycaret , Rdkit, Pubchempy, chembl_webclient,
-ODDT, PyTest.
+ODDT, PyTest, Flask, FastAPI
