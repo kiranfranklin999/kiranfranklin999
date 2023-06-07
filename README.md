@@ -13,16 +13,18 @@ Here are some ideas to get you started:
 * NGS and Microarray data analysis (basics: tools such as FastQC, SeqGene, Bowtie)
 * Molecular Modeling and CADD. Also experienced in using various bioinformatics and cheminformatics
 * Building Pipelines using Nextflow
-databases tools. Nextflow
+
 - #### Biotechnology: 
 * Basics of Microbiology, Biochemistry and Molecular Biology techniques.
 - #### Programming Language: 
-* Python, JavaScript, React, HTML, CSS, R and C (Academic knowledge)0
+* Python, JavaScript, React, HTML, CSS, R and C (Academic knowledge)
 - #### Frameworks : 
-* Deep Learning libraries Tensorflow, PyTorch, FASTAPI
+* Deep Learning libraries Tensorflow, PyTorch(Basics)
+- #### API
+* FastAPI, Flask
 - #### Developer Tools:
 * GCP [ Data engineering - BQ, K8s, Cloud Run, Artifact Registry, GCS, compute engine, cloudSQL], Excel, Git, VS Code, Docker
 - #### Libraries: 
-* NumPy, Matplotlib, Sklearn, Networkx, Seaborn,Urllib, Pycaret , Rdkit, Pubchempy, chembl_webclient, ODDT, PyTest, Flask, FastAPI
+* NumPy, Matplotlib, Sklearn, Networkx, Seaborn,Urllib, Pycaret , Rdkit, Pubchempy, chembl_webclient, ODDT, PyTest
 - #### Database
 * PostgresSQL 
