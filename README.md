@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - #### Bioinformatics:
 * NGS and Microarray data analysis (basics: tools such as FastQC, SeqGene, Bowtie)
 * Molecular Modeling and CADD. Also experienced in using various bioinformatics and cheminformatics
+* Building Pipelines using Nextflow
 databases tools. Nextflow
 - #### Biotechnology: 
 * Basics of Microbiology, Biochemistry and Molecular Biology techniques.
